@@ -45,6 +45,7 @@ public class ActividadPrincipal extends AppCompatActivity {
             ab.setDisplayHomeAsUpEnabled(true);
         }
 
+
     }
 
     private void prepararDrawer(NavigationView navigationView) {
